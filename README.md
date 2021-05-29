@@ -4,14 +4,12 @@
 ─────────────────────────────────────
 </p>
 
-Hi there, thanks for stopping by, this is **Leonhart B. apo**.
-
-And go listen my new song on soundcloud https://soundcloud.com/4po
+Hi there, thanks for stopping by, this is **Braiik**.
 
 <img align='right' src="https://cdn2.scratch.mit.edu/get_image/user/16311207_60x60.png" width="230">
 
 ```javascript
-const 4po = {
+const Braiik = {
     pronouns: "He" | "Him",
     askMeAbout: ["web dev", "tech", "game"],
     technologies: {
@@ -34,8 +32,8 @@ const 4po = {
 
 ![4po's github stats](https://github-readme-stats.vercel.app/api?username=4po&hide=contribs,prs&count_private=true&show_icons=true)
 
-<a href="https://github.com/4po">
-  <img src="https://img.shields.io/github/followers/4po">
+<a href="https://github.com/Braiik">
+  <img src="https://img.shields.io/github/followers/Braiik">
 </a>
 <a href="https://github.com/4po">
    <img src="https://komarev.com/ghpvc/?username=4po">
