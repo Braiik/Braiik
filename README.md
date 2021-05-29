@@ -1,4 +1,4 @@
-![head.png](https://imgur.com/lpTg8lH.gif)
+![head.png](https://imgur.com/a/oWN3gxy)
 
 <p align="center">
 ─────────────────────────────────────
@@ -35,10 +35,10 @@ const Braiik = {
 <a href="https://github.com/Braiik">
   <img src="https://img.shields.io/github/followers/Braiik">
 </a>
-<a href="https://github.com/4po">
+<a href="https://github.com/Braiik">
    <img src="https://komarev.com/ghpvc/?username=4po">
 </a>
-<a href="https://discord.bio/p/apo">
+<a href="https://discord.bio/p/Braiik">
          <img src="https://img.shields.io/static/v1?label=Website&logo=CSS3&logoColor=1572B6&message=Click%20Here&color=1572B6">
          </a>
 
@@ -54,12 +54,12 @@ const Braiik = {
       
 
 <!-- Place this tag where you want the button to render. -->
-<a class="github-button" href="https://twitter.com/4poUser" data-color-scheme="no-preference: light; light: light; dark: dark;" data-show-count="true" aria-label="Follow @glock9v on GitHub">Follow @4po</a>
+<a class="github-button" href="https://twitter.com/4poUser" data-color-scheme="no-preference: light; light: light; dark: dark;" data-show-count="true" aria-label="Follow @glock9v on GitHub">Follow @Braiik</a>
 
 
 <br>
 
 ---
 
-🔎 From [@4po](https://github.com/Braiik)
+🔎 From [@Braiik](https://github.com/Braiik)
 
