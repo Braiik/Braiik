@@ -1,4 +1,4 @@
-![head.png](https://i.imgur.com/0dG2g3t.png)
+![head.png](https://www.casulgamestudio.com/wp-content/uploads/2020/07/discord.gif)
 
 <p align="center">
 ─────────────────────────────────────
@@ -34,7 +34,7 @@ Hi there, thanks for stopping by, this is **Braiik**.
 
 <p align="center">
          <a href="https://discord.gg/fr">
-         <img src="https://www.casulgamestudio.com/wp-content/uploads/2020/07/discord.gif">
+         <img src="https://i.imgur.com/0dG2g3t.png">
          </a>
       
 
