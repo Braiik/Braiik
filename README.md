@@ -15,7 +15,7 @@ Hi there, thanks for stopping by, this is **Braiik**.
 ─────────────────────────────────────
 </p>
 
-![4po's github stats](https://github-readme-stats.vercel.app/api?username=4po&hide=contribs,prs&count_private=true&show_icons=true)
+![Braiik github stats](https://github-readme-stats.vercel.app/api?username=Braiik&hide=contribs,prs&count_private=true&show_icons=true)
 
 <a href="https://github.com/Braiik">
   <img src="https://img.shields.io/github/followers/Braiik">
