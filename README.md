@@ -64,4 +64,4 @@ const 4po = {
 ---
 
 🔎 From [@4po](https://github.com/Braiik)
-🔎 Instagram [@leonhski](https://www.instagram.com/leonhski/)
+
