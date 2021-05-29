@@ -33,8 +33,8 @@ Hi there, thanks for stopping by, this is **Braiik**.
 </p>
 
 <p align="center">
-         <a href="https://discord.gg/congo">
-         <img src="https://data.whicdn.com/images/354158989/original.gif">
+         <a href="https://discord.gg/fr">
+         <img src="https://www.casulgamestudio.com/wp-content/uploads/2020/07/discord.gif">
          </a>
       
 
